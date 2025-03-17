@@ -30,7 +30,7 @@
       - `Separate cost by environment`
       - `Create strict policies only for production if necessary`
   - Include a virtual machine and one other resources (your choice—think about what’s useful in a dev setup).
-    - `I've created a module to put all vms configurations. see` [here](modules\azure\vms\main.tf)
+    - `I've created a module to put all vms configurations. see` [here](/modules/azure/vms)
   - Name and label resources to make the environment and region clear.
     - `Concatenate environment and project_prefix`
   - Avoid repeating values—how can you make this flexible?
