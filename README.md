@@ -26,7 +26,7 @@
 - **Hints**:
   - Argument why would you use Resource Groups or Subscriptions for multiple environments.
     - `I prefer separete by subscriptions, check the list bellow`
-      - `Create scripts to stop or clear all resources in the end of the day only for dev with low risc.`
+      - `Create scripts to stop or clear all resources in the end of the day only for dev with low risk.`
       - `Separate cost by environment`
       - `Create strict policies only for production if necessary`
   - Include a virtual machine and one other resources (your choice—think about what’s useful in a dev setup).
