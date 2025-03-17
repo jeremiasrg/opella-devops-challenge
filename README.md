@@ -13,7 +13,7 @@
   - What outputs you would add and why?
     - ` used in 'storage' and 'vms' modules ` 
   - What information would someone need in order to use this module? Bonus points if you automate documentation! (indicate how)
-    - `Check the documentation` [here](dev\README.md).
+    - `Check the documentation` [here](/dev/README.md).
   - Super extra points if your module is tested
 
 
